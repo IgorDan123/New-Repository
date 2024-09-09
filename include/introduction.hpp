@@ -25,8 +25,9 @@ public:
 
     std::string fullname() const
     {
-        return string gor
+        return string GORech
     }
+
 
 private:
 };
