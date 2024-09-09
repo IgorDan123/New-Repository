@@ -8,24 +8,24 @@
 #define __INTRODUCTION_HPP__
 
 #include <string>
-// Данилов Игорь Алексеевич ПМ-31
+// Данилов Игорь Алексеевич ПМ-31 опять я 
 //{
 class introduction
 {
 public:
     std::string_view name() const
     {
-        return ...
+        return string igor 
     }
 
     std::string_view surename() const
     {
-        return ...
+        return string danilov
     }
 
     std::string fullname() const
     {
-        return ...
+        return string gor
     }
 
 private:
